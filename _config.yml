@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 勾小勻的雜物間
+subtitle: '放一些哩哩摳摳有的沒的'
+description: '勾小勻專門放一些哩哩摳摳有的沒的地方'
+keywords: 勾小勻, 勾小勻的雜物間, 勾小勻的部落格, 勾小勻的網誌, 勾小勻的筆記
+author: 勾小勻
+language: zh-tw
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://gogoyun.github.io/hexo_yun
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -60,7 +60,7 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
+  path: '/blog'
   per_page: 10
   order_by: -date
 
