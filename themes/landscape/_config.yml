@@ -3,12 +3,13 @@
 # ===============
 # Navigation menu
 menu:
-  Home: /
-  Archives: /archives
+  首頁: /
+  部落格: /blog
+  關於我: /about
 # RSS link
 rss: /atom.xml
 # Path of title banner image of page top
-banner: "images/banner.jpg"
+banner: "images/banner_new.jpg"
 # Subtitle of page top
 subtitle:
 # Header links with icon, specified links will appear at the top right corner of the page
